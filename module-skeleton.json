@@ -1,0 +1,15 @@
+{
+  "repository": "module-automation-voice-dart-mobile",
+  "capabilityKey": "liberusoftware/automation-voice",
+  "presentation": "dart-mobile",
+  "package": "module_automation_voice_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/automation/nextjs/voice.md",
+  "presentationPlan": "projects/automation/features/voice.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "automation"
+  ]
+}
